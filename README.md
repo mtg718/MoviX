@@ -10,7 +10,4 @@ Movix is a dynamic React and Redux-based application that seamlessly showcases a
 
 ![Movix - Google Chrome 27-01-2024 23_58_00](https://github.com/mtg718/MoviX/assets/135738292/5bad7a2a-c3c4-48ea-be00-6341efc93672)
 
-![Movix - Google Chrome 27-01-2024 23_58_47](https://github.com/mtg718/MoviX/assets/135738292/0e4081cf-6dcb-4980-9699-933b868884a4)
-
-
 ![Movix - Google Chrome 28-01-2024 00_05_42](https://github.com/mtg718/MoviX/assets/135738292/7ff35fa9-2ede-447d-ac26-340ed3f30e02)
