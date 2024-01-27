@@ -1,3 +1,5 @@
+<h1>Deployed Link-  https://movix-mg.netlify.app/</h1>
+
 Movix is a dynamic React and Redux-based application that seamlessly showcases a curated collection of movies and TV shows. With an intuitive user interface, users can explore and discover their favorite entertainment content, enhancing the viewing experience. Movix combines cutting-edge technology with a user-friendly design for an immersive cinematic journey.
 
 ![Movix - Google Chrome 27-01-2024 23_54_57](https://github.com/mtg718/MoviX/assets/135738292/be16d355-6cc4-4b46-866e-2795a2d4f333)
